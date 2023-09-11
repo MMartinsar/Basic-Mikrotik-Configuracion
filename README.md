@@ -1,4 +1,4 @@
-# Mikrotik devices configuration [en]
+# [en] Mikrotik devices configuration
 
 Step by step of the configuration of two Mikrotik devices (hAP and hEX).
 
@@ -46,7 +46,7 @@ To configure the devices, we will connect to the interface 5 of each router thro
 
 ---
 
-# Configuración de dispositivos Mikrotik [es]
+# [es] Configuración de dispositivos Mikrotik 
 
 Paso a paso de la configuración de dos dispositivos Mikrotik (hAP y hEX).
 

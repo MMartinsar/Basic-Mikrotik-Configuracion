@@ -1,6 +1,6 @@
 # [en] Mikrotik devices configuration
 
-Step by step of the configuration of two Mikrotik devices (hAP and hEX).
+Configuration of two Mikrotik devices (hAP and hEX) step by step.
 
 ## Description
 
